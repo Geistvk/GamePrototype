@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7F00FF&center=true&vCenter=true&width=600&lines=GamePrototype;Block Based;EasyToUse+%7C+CoolFeatures" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7F00FF&center=true&vCenter=true&width=600&lines=GamePrototype;BlockBased;EasyToUse+%7C+CoolFeatures" />
 </p>
 
 <h1 align="center">Game Prototype</h1>
