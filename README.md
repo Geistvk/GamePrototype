@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7F00FF&center=true&vCenter=true&width=600&lines=NebulaOS;Modular+Operating+System;Fast+%7C+Flexible+%7C+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=7F00FF&center=true&vCenter=true&width=600&lines=GamePrototype;Block Based;EasyToUse+%7C+CoolFeatures" />
 </p>
 
-<h1 align="center">🌌 NebulaOS</h1>
+<h1 align="center">Game Prototype</h1>
 
 <p align="center">
-  <b>Modular • Fast • Cross-Platform • Future OS Concept</b>
+  <b>Modular Design • Easy to Use • Simple Block based Game Concept</b>
 </p>
 
 <p align="center">
